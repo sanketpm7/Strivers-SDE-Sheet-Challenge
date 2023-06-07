@@ -26,8 +26,8 @@ I have linked the solutions to the problems I've solved.
 **Array-III**
 1. []()
 2. []()
-3. []()
-4. []()
+3. [Majority element >n/2 times](./array/majority-nby2.md)
+4. [Majority element >n/3 times](./array/majority-nby3.md)
 5. []()
 6. []()
 
